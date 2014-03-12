@@ -45,3 +45,4 @@ Pod względem przychodów jest trzecim operatorem satelitów na świecie. Jej sa
 
 ![alt text](http://previous.presstv.ir/photo/20121015/amin20121015164555003.jpg)
 
+
