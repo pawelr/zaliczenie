@@ -6,8 +6,7 @@ Pod względem przychodów jest trzecim operatorem satelitów na świecie. Jej sa
 
 * całą Europę,
 * Bliski Wschód,
-* frykę,
-* Indie,
+* Afrykę,
 * znaczną część Azji,
 * Ameryka Płn.,
 * Ameryka Płd.,
