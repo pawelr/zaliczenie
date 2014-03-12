@@ -1,4 +1,4 @@
-# Eutelsat  ![alt text](http://www.eutelsat.com/polish/img/logo.gif "Logo Title Text 1")
+# Eutelsat  ![alt text](http://www.eutelsat.com/polish/img/logo.gif)
 
 Spółka akcyjna, z siedzibą we Francji, zajmująca się dostarczaniem usług satelitarnych różnego rodzaju. Do 2001 była to międzyrządowa organizacja państw Europy Zachodniej, mająca zaspokajać potrzeby telekomunikacyjne tychże krajów.
 
