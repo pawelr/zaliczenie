@@ -12,9 +12,9 @@ Pod względem przychodów jest trzecim operatorem satelitów na świecie. Jej sa
 * Ameryka Płd.,
 
 
-Świadczone usługi:
+**Świadczone usługi:**
 
-- usługi wideo:
+- *usługi wideo:*
 
  - bezpośrednie przekazywanie sygnałów TV i radiowych,
  - telewizja interaktywna,
@@ -22,7 +22,7 @@ Pod względem przychodów jest trzecim operatorem satelitów na świecie. Jej sa
  - sieci dosyłowe,
  - usługi uplinkowe,
  
-- usługi szerokopasmowe:
+- *usługi szerokopasmowe:*
 
  -  dwukierunkowe usługi dostępu do Internetu,
  -  satelitarne łączenia sieci lokalnych,
@@ -31,18 +31,17 @@ Pod względem przychodów jest trzecim operatorem satelitów na świecie. Jej sa
  -  jednokierunkowe transfery danych,
  -  tworzenie sieci szkieletowych,
 
-- usługi telekomunikacyjne:
+- *usługi telekomunikacyjne:*
 
  -  terminale łączności dalekosiężnej dla firm,
  -  prywatne zamknięte kanały telewizyjne i radiowe,
  -  usługi łącznościowe dla instytucji rządowych,
 
-- łączność ruchoma:
+- *łączność ruchoma:*
 
  - usługi nawigacyjne, alarmowe, zarządzania flotami pojazdów,
  - głosowa i faksowa łączność dla statków i służb pomocy drogowej,
  - szerokopasmowa łączność morska.
 
-
-[IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+![alt text](http://previous.presstv.ir/photo/20121015/amin20121015164555003.jpg)
 
