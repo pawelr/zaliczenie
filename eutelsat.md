@@ -4,12 +4,12 @@ Spółka akcyjna, z siedzibą we Francji, zajmująca się dostarczaniem usług s
 
 Pod względem przychodów jest trzecim operatorem satelitów na świecie. Jej satelity obejmują swoim zasięgiem:
 
-całą Europę,
-Bliski Wschód,
-Afrykę,
-Indie,
-znaczną część Azji,
-Ameryka Płn.,
-Ameryka Płd.,
+* całą Europę,
+* Bliski Wschód,
+* frykę,
+* Indie,
+* znaczną część Azji,
+* Ameryka Płn.,
+* Ameryka Płd.,
 
 
