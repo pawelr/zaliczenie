@@ -35,4 +35,4 @@ Zabytki architektury Gdańska pochodzą z różnych okresów. Można je zaliczy�
 
 W okresie renesansu i baroku działali tutaj twórcy tacy, jak: Willem, Abraham i Izaak van den Blocke, Antoni van Obberghen, Andreas Schlüter.
 
-![panorama Gdańska](http://1.bp.blogspot.com/-I2sr8jPBeVo/Tlan_oEPxlI/AAAAAAAAAQ0/Q1vUk4yv2Qs/s1600/Panorama-Gdanska-8643.jpg)
+![panorama Gdańska](http://3.bp.blogspot.com/-S9MlfBP0yU4/TmY_j7Y_xHI/AAAAAAAAQnk/0D207pR5cA8/s1600/DSC_4652.JPG)
