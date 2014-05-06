@@ -16,6 +16,7 @@ Pierwotnie fontanna była kolorowa. Jej uruchomienie nastąpiło dopiero 9 paźd
 Manierystyczna w swej koncepcji figura rzymskiego boga mórz i oceanów – Neptuna zbudowana jest w oparciu o łamaną linię (nawiązanie do figury serpentinata), przeznaczona jest do oglądania ze wszystkich stron. Wygląd rzeźby wskazuje na to, że autor znał rzeźby antyczne: głowa Neptuna przypomina głowę z posągu konnego Marka Aureliusza, zaś tors jest być może nawiązaniem do Torsu Belwederskiego.[potrzebne źródło]
 
 ![GitHub Logo] (http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Lange-_oder_L%C3%A4ngemarkt_Danzig_Teichgr%C3%A4ber.jpg/800px-Lange-_oder_L%C3%A4ngemarkt_Danzig_Teichgr%C3%A4ber.jpg)
+> Fontanna Neptuna z otoczeniem w 1838 r.
 
 W latach 1757-1761 Jan Karol Stender wykonał nowe fragmenty basenu i trzonu, a mistrz kowalski Jakub Barren uzupełnił i odnowił zniszczoną kratę. Fontanna otrzymała wtedy bogato zdobiony styl rokokowy.
 
