@@ -25,3 +25,5 @@ W 1927 fontannę poddano renowacji. Uszkodzona w czasie II wojny światowej i na
 W kwietniu 1988 r., przy okazji dorocznej konserwacji, na polecenie władz miejskich Gdańska, zakryto posągowi przyrodzenie listkiem figowym.
 
 Ostatni remont fontanny, obejmujący kompletną rozbiórkę postumentu i rzeźby Neptuna, ich renowację oraz montaż nowoczesnego systemu uzdatniania wody i atrakcji wodnych z oświetleniem, odbył się od września 2011 do kwietnia 2012.
+
+źródło: wikipedia
