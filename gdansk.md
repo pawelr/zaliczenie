@@ -40,7 +40,12 @@ W okresie renesansu i baroku działali tutaj twórcy tacy, jak: Willem, Abraham 
 >Bez strachu, ale z rozwagą
 
 
+Najbardziej znane zabytki Gdańska:
 
+ * Fontanna Neptuna
+ * Żuraw
+ * Kościół Mariacki
+ * Dwór Artusa
 
 
 #####Link do prezentacji multimedialnej w Slid.es: 
