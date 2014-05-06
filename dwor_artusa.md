@@ -1,5 +1,7 @@
 # Dwór Artusa
 
+![GitHub Logo](http://osrodekprzywydmach.pl/wp-content/uploads/2011/06/DW%C3%93R-ARTUSA-GDA%C5%83SK.jpg)
+
 Gmach usytuowany w centrum Gdańska, przy Długim Targu 44, dawniej miejsce spotkań kupców, ośrodek życia towarzyskiego, później giełda, obecnie oddział Muzeum Historycznego Miasta Gdańska.
 
 ###Historia
