@@ -46,5 +46,5 @@ Najbardziej znane zabytki Gdańska:
  * [Żuraw](https://github.com/pawelr/zaliczenie/blob/master/zuraw.md)
  * [Dwór Artusa](https://github.com/pawelr/zaliczenie/blob/master/dwor_artusa.md)
 
-#####[Link do prezentacji multimedialnej w Slid.es](http://slides.com/pawelr/gdansk)
+#####[Link do galerii multimedialnej w Slid.es](http://slides.com/pawelr/gdansk)
 
