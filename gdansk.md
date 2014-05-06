@@ -39,3 +39,9 @@ W okresie renesansu i baroku działali tutaj twórcy tacy, jak: Willem, Abraham 
 >Nec temere, nec timide - 
 >Bez strachu, ale z rozwagą
 
+
+
+
+
+#####Link do prezentacji multimedialnej w Slid.es: 
+
